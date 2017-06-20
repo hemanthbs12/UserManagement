@@ -8,4 +8,4 @@ import '../assets/app.css';
     templateUrl: 'app.component.html'
 })
 
-export class AppComponent { }
+export class AppComponent {  }
