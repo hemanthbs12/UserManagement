@@ -1,6 +1,7 @@
 ﻿import { Component } from '@angular/core';
 
 import '../assets/app.css';
+import '../assets/theme.css';
 
 @Component({
     moduleId: module.id.toString(),
